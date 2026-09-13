@@ -6,9 +6,12 @@ Using SQL to explore and analyse real dataset on global CO2 emissions, gaining v
 
 I hope to use a real dataset to answer questions such as:
 
--Which area produces the most emissions?
+-Which area produces the most emission?
 -How has carbon emission changed over time?
 
-# Skills Demonstrated 
+# Tools used:
+- MySQL
+
+# Skills demonstrated:
 - SQL Language
 - Creating Database
