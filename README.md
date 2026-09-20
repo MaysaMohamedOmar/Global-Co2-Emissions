@@ -15,4 +15,7 @@ I hope to use a real dataset to answer questions such as:
 
 # Skills demonstrated:
 - SQL Language
-- Creating Database
+- Importing Data
+- Creating database
+- Creating table
+- Running queries
