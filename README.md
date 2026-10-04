@@ -20,5 +20,5 @@ I hope to use a real dataset to answer questions such as:
 - Creating database
 - Creating table
 - Running queries
-- Using functions
+- Using functions such as Select
 
